@@ -1,4 +1,6 @@
 public static void Main(string[] args)
 {
-Console.Write("Hello World");
+  
+  string name = Console.ReadLine;
+Console.Write($"Hello World- {name} ");
 }
