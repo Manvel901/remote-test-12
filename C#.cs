@@ -1,4 +1,4 @@
-public static void Main(string[] args)
+protected int MessageId(string name)
 {
   
   string name = Console.ReadLine;
