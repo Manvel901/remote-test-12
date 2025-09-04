@@ -1,4 +1,4 @@
-public static void Main(string[] args)
+private string Message(string name)
 {
   
   string name = Console.ReadLine;
